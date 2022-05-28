@@ -1,0 +1,51 @@
+Q
+K
+L
+P
+T
+A
+
+iam learning the linux.
+iam trying code a c program in the vum editor.
+i don't no why friends are ignoring me .
+i thinking are they really my prendsr
+i don't no why friends are ignoring me .
+i thinking are they really my prends.
+iam trying code a c program in the vum editor.
+i don't no why friends are ignoring me .
+i don't no why friends are ignoring me .
+i don't no why friends are ignoring me .
+i don't no why friends are ignoring me .
+i don't no why friends are ignoring me .
+i don't no why friends are ignoring me .
+i don't no why friends are ignoring me .
+i don't no why friends are ignoring me .
+
+
+
+
+
+
+
+
+
+
+pwd
+
+
+
+
+
+
+
+
+
+
+echo
+sudo
+cd
+clear
+ls
+cat 
+less
+
